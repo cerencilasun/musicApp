@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26639726384",
+    "project_id": "deneme-a30d0",
+    "storage_bucket": "deneme-a30d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26639726384:android:70a11533b4aa08f1a0baf5",
+        "android_client_info": {
+          "package_name": "com.ceren.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOvNcJ-JQXHQbl1Nmqaf3FkP_zXPnCDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
